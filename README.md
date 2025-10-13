@@ -1,5 +1,5 @@
 # <div align="center">👨‍💻 ALISHER YERTAYEV</div>
-<div align="center"><strong> Software Engineer | Software Architect | Freelancer</strong></div>
+<div align="center"><strong> Software Engineer | Software Architect</strong></div>
 
 <div align="center">
   <a href="https://github.com/Yertay01"><img src="https://komarev.com/ghpvc/?username=Yertayev01&label=Profile%20views&color=0e75b6&style=flat" alt="Alisher_Yertayev"></a>
@@ -11,10 +11,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yertayev01&theme=darkhub&row=1&column=6" alt="trophies" /></a>
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -24,7 +20,7 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 - ☁️ Optimizing **cloud infrastructure** for scalability and security
 - 🔄 Implementing **DevOps** practices for streamlined deployment
 - 🏗️ Architecting robust **backend systems**
-- 🌐 Based in **Kazakhstan** 🇰
+- 🌐 Based in **Kazakhstan**
 
 > *"I don't solve problems, I create solutions."*
 ---
@@ -79,10 +75,10 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 <div align="center">
 
 ### Core Skills
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/AI%20&%20ML-8A2BE2?style=for-the-badge" alt="AI & ML"/> <img src="https://img.shields.io/badge/Scalable%20Web%20Dev-0078D7?style=for-the-badge" alt="Scalable Web Dev"/> <img src="https://img.shields.io/badge/API%20Development-009688?style=for-the-badge" alt="API Development"/> <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" alt="MLOps"/> <img src="https://img.shields.io/badge/Cloud%20Platforms-232F3E?style=for-the-badge" alt="Cloud Platforms"/>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  <img src="https://img.shields.io/badge/Scalable%20Web%20Dev-0078D7?style=for-the-badge" alt="Scalable Web Dev"/> <img src="https://img.shields.io/badge/API%20Development-009688?style=for-the-badge" alt="API Development"/> <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" alt="DevOps"/> <img src="https://img.shields.io/badge/Cloud%20Platforms-232F3E?style=for-the-badge" alt="Cloud Platforms"/>
 
 ### Languages & Frameworks
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 
 
 ### API & Communication
@@ -97,17 +93,14 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 ### Databases
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-### IoT & Hardware
-<img src="https://img.shields.io/badge/ROS-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/> <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-</div>
 
 ---
 
 ## 🌐 Languages
 
-- 🇬 **English**: Fluent
-- 🇺 **Kazakh**: Native
-- 🇰 **Korean**: Conversational
+-  **English**: Fluent
+-  **Kazakh**: Native
+-  **Korean**: Conversational
 
 ---
 
@@ -116,7 +109,7 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 I'm available for freelance projects and always open to interesting conversations and opportunities. Feel free to reach out!
 
 - 📧 **Email**: [deepidox@gmail.com](mailto:deepidox@gmail.com)
-- 💼 **LinkedIn**: [Alisher Yertayev](www.linkedin.com/in/alisher-yertayev-869433290)
+- 💼 **LinkedIn**: [Alisher Yertayev](https://www.linkedin.com/in/alisher-yertayev-869433290)
 
 💡 **Looking for a skilled Python engineer for your next project?** Let's build something amazing together! 🚀
 
