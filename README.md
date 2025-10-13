@@ -98,6 +98,7 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 ## 🌐 Languages
 
 -  **English**: Fluent
+-  **Russian**: Native
 -  **Kazakh**: Native
 -  **Korean**: Conversational
 
