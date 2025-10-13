@@ -65,7 +65,6 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 
 - **Self-Study Courses**
   - CS50's Introduction to Computer Science (Harvard University)
-  - Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
   - CS50's Introduction to Artificial Intelligence with Python
 
 ---
