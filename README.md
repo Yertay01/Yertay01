@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Results-driven **Software Engineer** with 4+ years of experience designing, developing, and implementing **AI**, **API**, **Cloud**, and **Web applications**. Currently working as a **Senior Software Engineer**, I specialize in:
+Results-driven **Software Engineer** with 5+ years of experience designing, developing, and implementing **AI**, **API**, **Cloud**, and **Web applications**. Currently working as a **Senior Software Engineer**, I specialize in:
 
 - ☁️ Optimizing **cloud infrastructure** for scalability and security
 - 🔄 Implementing **DevOps** practices for streamlined deployment
@@ -28,7 +28,7 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 ## 🌟 Career Journey
 
 ### StoneLab Inc. | Seoul, South Korea  
-**Software Engineer / DevOps** | *Feb 2025 – Present*  
+**Software Engineer / DevOps** | *Sep 2024 – Present*  
 - Delivered the MVP and doubled automated test coverage from 40 % to 75 % by enforcing CI/CD gates (tests, linting) via GitHub Actions and AWS CodeDeploy  
 - Built and automated AWS infrastructure (EC2, ALB target groups, Auto Scaling) and containerized deployments with Docker + ECR, separating prod/dev stacks and adding health checks to improve reliability and cost control  
 - Implemented key product features — OAuth, points system, large-scale backend refactoring, and S3 migration of audio assets from NAS — while documenting 50 endpoints and visualizing flows with Mermaid diagrams  
@@ -38,7 +38,7 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 ---
 
 ### Fourlab | Seoul, South Korea  
-**Software Engineer** | *Jul 2022 – Feb 2025*  
+**Software Engineer** | *Jul 2022 – Sep 2024*  
 - Designed and implemented a scalable microservice architecture for AI-driven solutions using FastAPI, Flask, and AWS, ensuring system resilience  
 - Developed high-performance asynchronous processing using RabbitMQ and Celery for failure recovery and automatic retries  
 - Optimized PostgreSQL and MongoDB, integrating Elasticsearch for high-speed model searches, adding indexes, and improving raw-SQL query performance by 28 %  
@@ -66,6 +66,7 @@ Results-driven **Software Engineer** with 4+ years of experience designing, deve
 - **Self-Study Courses**
   - CS50's Introduction to Computer Science (Harvard University)
   - CS50's Introduction to Artificial Intelligence with Python
+  - TechLead from Hard&Soft skills
 
 ---
 
