@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/Yertay01"><img src="https://komarev.com/ghpvc/?username=Yertayev01&label=Profile%20views&color=0e75b6&style=flat" alt="Alisher_Yertayev"></a>
-  <a href="https://www.linkedin.com/in/alisher-yertayev-869433290"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/alisher-yertayev-869433290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:deepidox@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-brightgreen?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://t.me/CashAndBesh">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" 
