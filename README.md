@@ -34,6 +34,7 @@ Results-driven **Software Engineer** with 5+ years of experience designing, deve
 - Increased background processing reliability with Apache Kafka and consumer workers, applying resiliency practices (Retry, DLQ, idempotency) for predictable event handling
 **Used Technologies:** Python, FastAPI, Redis, PostgreSQL, Linux, Git, GitHub Actions, Django ORM, PyTest, Grafana, Prometheus, Docker, AWS EC2, S3, RDS, CodeDeploy
 
+---
 
 ### StoneLab Inc. | Seoul, South Korea  
 **Software Engineer / DevOps** | *Sep 2024 – Present*  
