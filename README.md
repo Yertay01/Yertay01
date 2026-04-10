@@ -20,7 +20,6 @@ Results-driven **Software Engineer** with 5+ years of experience designing, deve
 - ☁️ Optimizing **cloud infrastructure** for scalability and security
 - 🔄 Implementing **DevOps** practices for streamlined deployment
 - 🏗️ Architecting robust **backend systems**
-- 🌐 Based in **Kazakhstan**
 
 > *"I don't solve problems, I create solutions."*
 ---
@@ -37,7 +36,7 @@ Results-driven **Software Engineer** with 5+ years of experience designing, deve
 
 ---
 
-### Fourlab | Seoul, South Korea  
+### FourLAB | Seoul, South Korea  
 **Software Engineer** | *Jul 2022 – Sep 2024*  
 - Designed and implemented a scalable microservice architecture for AI-driven solutions using FastAPI, Flask, and AWS, ensuring system resilience  
 - Developed high-performance asynchronous processing using RabbitMQ and Celery for failure recovery and automatic retries  
@@ -47,7 +46,7 @@ Results-driven **Software Engineer** with 5+ years of experience designing, deve
 
 ---
 
-### The Intrepid | Remote  
+### DOHANDS | Remote  
 **Backend Engineer** | *Jan 2021 – Jun 2022*  
 - Designed and implemented a role-based access control (RBAC) system using Python, Django, and Django DRF, ensuring secure and scalable authorization for employees and managers  
 - Optimized background job processing with Celery and Redis, implementing asynchronous task execution, job prioritization, and failure recovery for improved system resilience  
