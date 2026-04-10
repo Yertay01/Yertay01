@@ -31,7 +31,7 @@ Results-driven **Software Engineer** with 5+ years of experience designing, deve
 - Upgraded a Peak Matching backend for mass-spectrometry workflows—secure, versioned REST APIs to upload analytical files, run conversion/analysis jobs, and return matches/plots in a clear end-to-end pipeline.
 - Improved resilience under load (p95 −27.6 percent, error rate −18.4 percent) by standardizing architecture and domain boundaries (Clean Architecture/DDD, Repository + Unit of Work) using Python/FastAPI/SQLAlchemy.
 - Accelerated critical PostgreSQL operations by optimizing queries and indexing (EXPLAIN, transaction patterns, batching/pagination), reducing performance degradation risks as data volume and RPS grew.
-- Increased background processing reliability with Apache Kafka and consumer workers, applying resiliency practices (Retry, DLQ, idempotency) for predictable event handling.
+- Increased background processing reliability with Apache Kafka and consumer workers, applying resiliency practices (Retry, DLQ, idempotency) for predictable event handling
 **Used Technologies:** Python, FastAPI, Redis, PostgreSQL, Linux, Git, GitHub Actions, Django ORM, PyTest, Grafana, Prometheus, Docker, AWS EC2, S3, RDS, CodeDeploy
 
 
